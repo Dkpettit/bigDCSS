@@ -13,3 +13,7 @@ npm install
 + Gulp
 + SASS
 + Gulp-SASS
++ Node
+
+    npm init
+    npm install gulp gulp-sass sass --save-dev
